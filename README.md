@@ -20,6 +20,9 @@ Think:
 > *“Clippy, but for desperate grad students and adjuncts grading 120 papers.”*
 
 ### 🎥 Demo
+
+![TA² Demo](https://raw.githubusercontent.com/Alice-Ji/ta2-extension/main/ta2_v3demo.gif)
+
 ---
 
 ## ✨ MVP Features
