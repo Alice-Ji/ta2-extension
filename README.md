@@ -45,8 +45,8 @@ Think:
 - OpenRouter (default: Mistral)
 
 **Dev**
-- GitHub  
 - VSCode  
+- GitHub  
 
 > Built using an AI-first workflow with ChatGPT Codex and Claude Code to prioritize rapid prototyping, UX flow, and iteration speed over premature architectural polish.
 
