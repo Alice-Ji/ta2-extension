@@ -1,11 +1,11 @@
-# TA² — Your Teaching Co-Pilot ✏️🤖  
+# TA² — Your Teaching Co-Pilot   
 
 **An LLM-powered grading assistant for overworked TAs, grad instructors, and adjuncts.**  
 *Built with AI, for grading with AI, where user friction and rapid prototyping co-evolved the product.*
 
 ---
 
-## 🧠 What It Is
+## What It Is
 
 TA² is a browser extension that lives inside **Canvas SpeedGrader** and helps instructors generate fast, customized, tone-appropriate feedback using an LLM.
 
@@ -19,13 +19,13 @@ It:
 Think:  
 > *“Clippy, but for desperate grad students and adjuncts grading 120 papers.”*
 
-### 🎥 Demo
+### Demo
 
 ![TA² Demo](https://raw.githubusercontent.com/Alice-Ji/ta2-extension/main/ta2_v3demo.gif)
 
 ---
 
-## ✨ MVP Features
+## MVP Features
 
 - Floating overlay inside Canvas SpeedGrader  
 - Rubric input (persists across refreshes)  
@@ -36,7 +36,7 @@ Think:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Extension**
 - Chrome (Manifest v3)  
@@ -56,7 +56,7 @@ Think:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repo  
 2. Open Chrome → `chrome://extensions`  
@@ -66,7 +66,7 @@ Think:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - No student data is stored  
 - All processing happens via API calls on demand  
